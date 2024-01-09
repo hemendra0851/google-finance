@@ -1,0 +1,3 @@
+﻿pylint==3.0.3
+pytest==7.4.3
+pytest-selenium==4.0.2
